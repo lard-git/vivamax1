@@ -1,62 +1,70 @@
-V14.11
-Can no longer be upgraded to Icathia's Curse Icathia's Curse.
-V14.2
-Total cost increased to 3100 Gold 3100 from 3000 Gold 3000.
-Combine cost increased to 900 Gold 900 from 800 Gold 800.
-V14.1
-NEW:
-RECIPE: Haunting Guise Haunting Guise + Fiendish Codex Fiendish Codex + 800 Gold 800 = 3000 Gold 3000.
-STATS: 350 health, 80 ability power, 15 ability haste.
-UNIQUE PASSIVE - VOID CORRUPTION: For each second in combat with champions, deal 2% increased damage, stacking up to 5 times for a total of 10%. While this effect is fully stacked, gain (Melee role 10% / Ranged role 6%) omnivamp.
-UNIQUE PASSIVE - VOID INFUSION: Gain ability power equal to 2% of bonus health.
-Limited to 1 Riftmaker.
-Ornn's Ornn's Masterwork Masterwork item: Icathia's Curse Icathia's Curse.
-STATS: 450 health, 90 ability power, 20 ability haste.
-OLD:
-RECIPE: Leeching Leer Leeching Leer + Blasting Wand Blasting Wand + 1050 Gold 1050= 3200 Gold 3200.
-STATS: 300 health, 70 ability power, 15 ability haste, 7% omnivamp.
-UNIQUE PASSIVE - VOID CORRUPTION: For each second in combat with champions, deal 3% increased damage, stacking up to 3 times for a total of 9%. While this effect is fully stacked, convert 100% of the increased damage into true damage.
-MYTHIC PASSIVE: Empowers each of your other Legendary items with 2% omnivamp and 8 ability power.
-Limited to 1 MYTHIC item.
-Ornn's Ornn's Masterwork Masterwork item: Icathia's Curse Icathia's Curse.
-STATS: 450 health, 90 ability power, 20 ability haste, 8% omnivamp.
-V12.23
-UNDOCUMENTED/BUG FIX: Bonus damage when not fully stacked is now an increase to the damage instance, instead of being applied using additional damage instances.
-This resolves some recursion and performance issues.
-V12.21
-Updated icon.
-V12.11
-Ability power reduced to 70 from 80.
-Icathia's Curse Icathia's Curse ability power reduced to 90 from 100.
-V12.10
-Omnivamp reduced to 7% from 8%.
-Icathia's Curse Icathia's Curse omnivamp reduced to 8% from 10%.
-V11.19
-BUG FIX: Icathia's Curse Icathia's Curse now properly grants its mythic bonuses per Legendary item owned.
-V11.10
-NEW EFFECT: Now also gains Void Corruption stacks from taking damage from champions.
-Void Corruption maximum stacks reduced to 3 from 5.
-Void Corruption bonus damage per stack increased to 3% from 2%.
-Void Corruption maximum bonus damage reduced to 9% from 10%.
-V11.9
-BUG FIX: Now grants Kai'Sa Kai'Sa the appropriate amount of stats for her Evolutions Evolutions.
-BUG FIX: Stat panel now correctly shows the omnivamp from the Mythic passive.
-V11.3
-Omnivamp reduced to 8% from 15%.
-Health increased to 300 from 150.
-Mythic passive changed to 2% omnivamp and 8 ability power from 5% magic penetration.
-Icathia's Curse Icathia's Curse omnivamp reduced to 10% from 18%.
-Icathia's Curse Icathia's Curse health increased to 450 from 300.
-V10.24
-Void Corruption bonus damage per stack reduced to 2% from 3%.
-Void Corruption maximum bonus damage reduced to 10% from 15%.
-V10.23 - November 12th Hotfix
-BUG FIX: No longer causes Aspect of the Dragon's Aspect of the Dragon's burn to last indefinitely until the target dies.
-V10.23 - Added
-RECIPE: Leeching Leer Leeching Leer + Blasting Wand Blasting Wand + 1050 Gold 1050 = 3200 Gold 3200.
-STATS: 80 ability power, 150 health, 15 ability haste, 15% omnivamp.
-UNIQUE PASSIVE - VOID CORRUPTION: For each second in combat with champions, deal 3% increased damage, stacking up to 5 times. While this effect is fully stacked, convert 100% of the increased damage into true damage.
-MYTHIC PASSIVE: Empowers your other Legendary items with 5% magic penetration.
-Limited to 1 MYTHIC item.
-Ornn's Ornn's Masterwork Masterwork item: Icathia's Curse Icathia's Curse.
-STATS: 100 ability power, 300 health, 20 ability haste, 18% omnivamp.
+[Chorus]
+Ryoute hirogete motto zenshin shiyou
+Kao agete itsumo zenryoku de go
+Kokoro no junbi ok? Senobi shitara rirakkusu
+Ashita e kakedashite yukou
+
+[Verse 1]
+Kuyokuyo shite itemo ii koto nanka naii
+Kyou wa kyou de ganbatta nara paafekuto
+Shinpai gomuyou! Ookina kokoro de
+Ashita wa ashita no kaze ga fuku yo
+
+[Pre-Chorus]
+Seiippai! (Seiippai!)
+Meippai (Meippai)
+Kono shunkan o tanoshin jaou
+
+[Chorus]
+Ryoute hirogete motto zenshin shiyou
+Kao agete itsumo zenryoku de go
+Kokoro no junbi ok? Senobi shitara rirakkusu
+Sora ni niji o egaite yukou
+Kanjiru mama ni dondon susunde go
+Kao agete ashinami soroete go
+Mune hatte it's ok! Sutte haite rirakkusu
+Ashita е kakedashite yukou
+See upcoming pop shows
+Get tickets for your favorite artists
+You might also like
+When Emma Falls in Love (Taylor’s Version) [From The Vault]
+Taylor Swift
+Timeless (Taylor’s Version) [From The Vault]
+Taylor Swift
+Seven (Explicit Ver.)
+Jung Kook (정국)
+[Verse 2]
+Shippai shichattemo ochikomu koto nai
+Nandеmo kanpeki ja tsumaranai desho?
+Shinpai shinai de! Minna ga iru kara
+Sukippu shite issho ni saa! yukou
+
+[Pre-Chorus]
+Seiippai! (Seiippai!)
+Meippai (Meippai)
+Tanoshimanakucha mottainai jan
+
+[Chorus]
+Youki na kibun de motto zenshin shiyou
+Kao agete! itsumo zenryoku de go
+Kokoro no junbi ok? Senobi shitara rirakkusu
+Takai kabe mo tobikoete yukou
+Zenryoku hasshin dondon susunde go
+Kao agete ashinami soroete go
+Mune hatte it's ok! Sutte haite rirakkusu
+Minna de kakedashite yukou
+
+[Bridge]
+Donna toki datte tsuyoku hikaru genki no shirushi
+Muteki na pawaa o tsukatte
+Nayami mo fuan mo zenbu fukitoba shichau yo
+Naante nee
+[Chorus]
+Ryoute hirogete motto zenshin shiyou
+Kao agete itsumo zenryoku de go
+Kokoro no junbi ok? Senobi shitara rirakkusu
+Ashita no tobira ima akeyou
+Tachidomarazu dondon susunde go
+Kao agete ashinami soroete go
+Mune hatte it's ok! Sutte haite zekkouchou
+Minna de dokomademo yukou
